@@ -1,0 +1,7 @@
+
+y	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(‰§Ù¬ÿÿÿÿÿ8µ†ôˆÚ1
+W
+java:S1118":Add a private constructor to hide the implicit public one.(˜Â¬é8½†ôˆÚ1
+[
+java:S2251"9"n" is incremented and will never reach "stop condition".(ëƒÆ±ýÿÿÿÿ8¾†ôˆÚ1
+L	java:S106"+Replace this use of System.out by a logger.(‰§Ù¬ÿÿÿÿÿ8¿†ôˆÚ1
